@@ -1,9 +1,9 @@
 # TTGTetris
 Questo è un semplice Tetris per TTGO
 Come riferimento ho preso questi due progetti:
-Codeice del gioco:
+Codice del gioco:
 https://github.com/VolosR/TTGOTetris
-Codeice del display:
+Codice del display:
 https://github.com/Xinyuan-LilyGO/TTGO-T-Display
 
 Il display l'ho dovuto copiare nella directory lib usando la directory tft_espi
